@@ -24,6 +24,7 @@ I'm currently:
 - 🌱 Sharpening my Deep Learning skill set
 - 👯 Looking to collaborate on Kaggle competitions
 ---
+
 [linkedin]: https://www.linkedin.com/in/theelahi/
 [twitter]: https://twitter.com/The_elahi
 [instagram]: https://www.instagram.com/the_elahi/
