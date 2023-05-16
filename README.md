@@ -8,10 +8,10 @@ Having started coding at an early age and also having completed my Bachelor’s,
 My key interest lies solely in sharing my technical expertise with people. I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.
 
 ---
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/theelahi/competition/light)
+<!-- ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/theelahi/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/theelahi/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/theelahi/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/theelahi/discussion/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/theelahi/discussion/light) -->
 
 <p align=center>
 <a href="https://www.kaggle.com/theelahi"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
