@@ -19,7 +19,7 @@ My key interest lies solely in sharing my technical expertise with people. I tho
 
 ---
 I'm currently:
-- 👩‍💻a enthusiast looking for a entry-level job
+- 👩‍💻a tech enthusiast
 - 👩‍💻an expert at Machine Learning algorithms
 - 🌱 Sharpening my Deep Learning skill set
 - 👯 Looking to collaborate on Kaggle competitions
