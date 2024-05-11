@@ -42,7 +42,7 @@ I'm currently:
 
 ## My GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheElahi&layout=compact)]" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheElahi&layout=compact" />
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
